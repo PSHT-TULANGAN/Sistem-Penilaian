@@ -142,7 +142,7 @@ HTML, CSS, dan JavaScript dalam satu file, Google Apps Script dan Google Sheets 
 
 | | |
 |---|---|
-| 📧 **Email** | [drayhannzaki06@gmail.com](mailto: drayhannzaki06@gmail.com) |
+| 📧 **Email** | [drayhannzaki6@gmail.com](mailto:drayhannzaki6@gmail.com) |
 | 💬 **WhatsApp** | [+62 895-7129-75020](https://wa.me/62895712975020) |
 | 📍 **Alamat** | PSHT Ranting Tulangan, Sidoarjo, Jawa Timur |
 
