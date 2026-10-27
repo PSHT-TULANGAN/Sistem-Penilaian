@@ -125,6 +125,7 @@ Setiap penyimpanan menambah satu baris di tab **Nilai** yang berisi identitas si
 
 HTML, CSS, dan JavaScript dalam satu file, Google Apps Script dan Google Sheets sebagai penyimpanan, serta GitHub Pages sebagai hosting.
 
+━━━━━━━━━━━━━━━━━━━━━━━━
 ## 👤 Penulis
 
 <div align="center">
