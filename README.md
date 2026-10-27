@@ -127,12 +127,15 @@ HTML, CSS, dan JavaScript dalam satu file, Google Apps Script dan Google Sheets 
 
 ## 👤 Penulis
 
-**DANI RAYHAN NURZAKI**
+<div align="center">
 
-*Pengembang Aplikasi Pengetes PSHT*
+# DANI RAYHAN NURZAKI
 
-PSHT Ranting Tulangan, Cabang Sidoarjo
+### Pengembang Aplikasi Pengetes PSHT
 
+**PSHT Ranting Tulangan · Cabang Sidoarjo**
+
+━━━━━━━━━━━━━━━━━━━━━━━━
 ### 📬 Kontak
 
 | | |
