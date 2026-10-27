@@ -125,6 +125,31 @@ Setiap penyimpanan menambah satu baris di tab **Nilai** yang berisi identitas si
 
 HTML, CSS, dan JavaScript dalam satu file, Google Apps Script dan Google Sheets sebagai penyimpanan, serta GitHub Pages sebagai hosting.
 
----
+## 👤 Penulis
 
-Dibuat untuk **PSHT Ranting Tulangan**. Persaudaraan Setia Hati Terate.
+<table>
+  <tr>
+    <td align="center" width="140"><h1>🥋</h1></td>
+    <td>
+      <h3>[DANI RAYHAN NURZAKI]</h3>
+      <i>Pengembang Aplikasi Pengetes PSHT</i><br>
+      PSHT Ranting Tulangan, Cabang Sidoarjo
+    </td>
+  </tr>
+</table>
+
+### 📬 Kontak
+
+| | |
+|---|---|
+| 📧 **Email** | [drayhannzaki06@gmail.com](mailto: drayhannzaki06@gmail.com) |
+| 💬 **WhatsApp** | [+62 895-7129-75020](https://wa.me/62895712975020) |
+| 📍 **Alamat** | PSHT Ranting Tulangan, Sidoarjo, Jawa Timur |
+
+### 🤝 Saran dan Laporan Kendala
+
+Menemukan kendala atau punya usulan fitur? Silakan hubungi pengembang lewat email atau WhatsApp di atas. Sertakan **tangkapan layar** dan **penjelasan singkat** supaya cepat ditangani.
+
+> Aplikasi ini dibuat untuk keperluan internal PSHT Ranting Tulangan.
+
+<p align="center"><i>© 2026 PSHT Ranting Tulangan. Dibuat dengan semangat persaudaraan.</i></p>
